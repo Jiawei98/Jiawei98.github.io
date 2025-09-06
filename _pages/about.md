@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[CV Link]({{ base_path }}/files/CV Jiawei Huang UC.pdf)
+[CV Link](/files/CV_Jiawei_Huang_UC.pdf)
 
 My name is Jiawei Huang (黄嘉炜). I was born in Xi’an, the historic capital of China and the eastern terminus of the Silk Road, where in history East and West came together through trade and culture. The city’s rich heritage has inspired me to value connection, exchange, and discovery—principles that guide my work and life today.
 
