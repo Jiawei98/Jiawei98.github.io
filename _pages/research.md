@@ -10,7 +10,7 @@ My research centers on the development and application of statistical methodolog
 
 1. An "*i*-mobility" Framework for Studying Social Mobility: Individualized Inference via Generative Analysis of Discrete Data (With Dungang Liu, Yuan Jiang, and Yu Xie). Preparing for submission to *Journal of the American Statistical Association*.
 
-2. Simplicity versus Complexity: The Role of Historical Average in Kelly, Malamud, and Zhou's (2024) RFF Model. (with Hui Guo and Yan Yu). Preparing for submission to *Journal of Finance*.
+2. Simplicity versus Complexity: The Role of Historical Average in Kelly, Malamud, and Zhou's (2024) RFF Model. (with Hui Guo and Yan Yu). Under review at *Journal of Finance*.
 
 ## Peer-Reviewed Publications
 
