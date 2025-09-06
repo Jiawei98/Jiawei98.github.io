@@ -13,7 +13,7 @@ My name is Jiawei Huang (黄嘉炜), and I am a fifth-year Ph.D. candidate in Bu
 
 My research centers on the application of statistical methods, machine learning, and artificial intelligence to business problems. Currently in ABD status, I am actively seeking academic positions beginning in 2026.
 
-## Research
+## Selected Research
 
 ### Dissertation Papers
 
@@ -29,14 +29,6 @@ My research centers on the application of statistical methods, machine learning,
 
 5. Jin, T., Rehani, P., Ying, M., **Huang, J.**, Liu, S., Roussos, P., & Wang, D. (2021). [scGRNom: A Computational Pipeline for Integrative Multi-Omics Analysis to Predict Cell-Type-Specific Disease Genes and Regulatory Networks](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00912-z). *Genome Medicine*, 13(1), 95.
 
-### Other Working Papers
-
-6. **Huang, J.**, Zheng, H., Dust, S., & Fry, M. J., I Will Pay You Back in The Future: Examining Employees' On-Job Perceptions of Organizations and Their Intention of Making Post-Turnover Employment Referrals. Preprint for *International Journal of Human Resource Management*.
-
-7. Leveraging LLMs and Generative AI for Supervised Survey Text Extraction: Evidence from Engagement Surveys and Exit Interviews (With Michael J. Fry and Kanix Wang). Finalizing statistical analysis results, targeting *INFORMS Journal on Applied Analytics*.
-
-8. Statistical Improvements in Counterfactual Analysis for fsQCA (With Yanran Liu, Peng Wang, and Zewei Lin). Finished theory formalization and data collection, running statistical analysis. Targeting *Information System Research*.
-
 ## Teaching (In-person and Online)
 
 ### Graduate Courses
@@ -44,6 +36,5 @@ My research centers on the application of statistical methods, machine learning,
 - **Statistical Computing** (Eval: 7.3/8.0) — Summer 2025
 
 ### Undergraduate Courses
-- **Business Analytics** (Eval: 6.0/8.0) — Fall 2024
 - **Descriptive Analytics and Data Visualization** (Eval: 7.5/8.0) — Spring 2024
 - **Descriptive Analytics and Data Visualization** (Eval: 7.0/8.0) — Summer 2022
