@@ -9,11 +9,9 @@ redirect_from:
 
 [CV Link](/files/CV_Jiawei_Huang_UC.pdf)
 
-My name is Jiawei Huang (黄嘉炜). I was born in Xi’an, the historic capital of China and the eastern terminus of the Silk Road, where in history East and West came together through trade and culture. The city’s rich heritage has inspired me to value connection, exchange, and discovery—principles that guide my work and life today.
+My name is Jiawei Huang (黄嘉炜), and I am a fifth-year Ph.D. candidate in Business Analytics in the Department of Operations, Business Analytics, and Information Systems at the Carl H. Lindner College of Business, University of Cincinnati. Prior to UC, I earned an M.S. in Data Science and Statistics from the University of Wisconsin–Madison (2020) and a B.S. in Statistics from Renmin University of China (2019).
 
-I am currently a fifth-year Ph.D. candidate in Business Analytics in the Department of Operations, Business Analytics, and Information Systems at Carl H. Lindner College of Business, University of Cincinnati. Prior to UC, I earned my Master of Science in Data Science and Statistics from the Department of Statistics, University of Wisconsin-Madison in 2020, and my Bachelor of Science in Statistics from the Department of Statistics, Renmin University of China in 2019. 
-
-I am actively seeking for an academic job starting 2026.
+My research centers on the application of statistical methods, machine learning, and artificial intelligence to business problems. Currently in ABD status, I am actively seeking academic positions beginning in 2026.
 
 ## Research
 
