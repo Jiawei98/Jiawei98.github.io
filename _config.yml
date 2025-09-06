@@ -25,6 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiawei Huang"
   pronouns         : # example: "she/her"  
+  bio              : " "
   location         : #"Cincinnati, OH 45221"
   employer         : "University of Cincinnati"
   phone            : "+1(608)236-3665"
