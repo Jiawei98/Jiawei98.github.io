@@ -13,7 +13,6 @@ I am passionate about integrating statistical methods, programming, and machine 
 - **Statistical Computing** (Eval: 7.3/8.0) — Summer 2025
 
 ### Undergraduate Courses
-- **Business Analytics** (Eval: 6.0/8.0) — Fall 2024
 - **Descriptive Analytics and Data Visualization** (Eval: 7.5/8.0) — Spring 2024
 - **Descriptive Analytics and Data Visualization** (Eval: 7.0/8.0) — Summer 2022
 
