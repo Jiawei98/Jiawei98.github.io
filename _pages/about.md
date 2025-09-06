@@ -6,11 +6,11 @@ redirect_from:
   - /about.html
 ---
 
-[CV Link](/files/CV_Jiawei_Huang_UC.pdf)
-
 My name is Jiawei Huang, and I am a fifth-year Ph.D. candidate in Business Analytics in the Department of Operations, Business Analytics, and Information Systems at the Carl H. Lindner College of Business, University of Cincinnati. Prior to UC, I earned an M.S. in Data Science and Statistics from the University of Wisconsin–Madison (2020) and a B.S. in Statistics from Renmin University of China (2019).
 
 My research centers on the application of statistical methods, machine learning, and artificial intelligence to business problems. Currently in ABD status, I am actively seeking academic positions beginning in 2026.
+
+[CV Link](/files/CV_Jiawei_Huang_UC.pdf)
 
 ## Selected Research
 
