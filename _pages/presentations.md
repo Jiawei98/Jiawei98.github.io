@@ -23,7 +23,7 @@ May 2025
 
 **Student Paper Competition with Award**  
 *An "i-Mobility" framework for studying social mobility: individualized inference via generative analysis of discrete data*  
-KY-ASA meeting, Lexington, KY
+KY-ASA meeting, Lexington, KY  
 April 2025
 
 ## 2024
