@@ -22,10 +22,10 @@ I am passionate about integrating statistical methods, programming, and machine 
 > — *RateMyProfessor.com*
 
 > "Instructor communicated in the most timely manner and was very respectful. Highly recommend."  
-> — *BANA 4137 Descriptive Analytics and Data Visualization*
+> — *Class evaluation from BANA 4137*
 
 > "I quite enjoyed the course. Not having a background in Python and still the way course was designed, I enjoyed my learning. Thank you for an amazing course!"  
-> — *BANA 6043 Statistical Computing*
+> — *Class evaluation from BANA 6043*
 
 ## Teaching Assistant
 - **BANA 7047 Data Mining** (Sections 001, 002, 003) — Spring 2023
