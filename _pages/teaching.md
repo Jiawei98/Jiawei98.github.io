@@ -33,8 +33,8 @@ Data Mining (Spring 2023), Descriptive Analytics and Data Visualization (Spring 
 
 ## Student Mentoring
 
-I served as an advisor at the Center for Business Analytics on two projects with **Drees Homes** and **ABC Fitness**, mentoring 4 graduate and undergraduate students in UC.
+I served as an advisor at the Center for Business Analytics on two projects with **Drees Homes** and **ABC Fitness**, mentoring four graduate and undergraduate students in UC.
 
 ## Second Reader for Capstone Essays
 
-I served as the second reader for two capstone projects in the Master of Science in Business Analytics program, focusing on recession prediction and audio genre classification.
+I served as the second reader for multiple capstone projects in the Master of Science in Business Analytics program.
