@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jiawei's Homepage"
+title                    : "Jiawei Huang's Homepage"
 title_separator          : "-"
 name                     : &name "Jiawei Huang"
 description              : &description "Jiawei Huang - PhD Candidate in Business Analytics at Carl H. Lindner College of Business, University of Cincinnati. Research in statistical methods, machine learning, and AI in business applications."
