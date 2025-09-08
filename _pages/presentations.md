@@ -17,27 +17,27 @@ International Risk Conference (MRS), Boston, MA
 July 2025
 
 **Refereed Paper with Award**  
-*Revisiting the 'Virtue of Complexity' in Ridgeless Regression*  
+*Simplicity versus Complexity: The Role of Historical Average in RFF Model*  
 Symposium on Data Science and Statistics (SDSS), Salt Lake City, UT  
 May 2025
 
 **Student Paper Competition with Award**  
 *An "i-Mobility" framework for studying social mobility: individualized inference via generative analysis of discrete data*  
-KY-ASA meeting, Lexington, Kentucky  
+KY-ASA meeting, Lexington, KY 
 April 2025
 
 ## 2024
 
 **Invited Session**  
-*Gender Moderating Effects in registered nurses (RNs)' Turnover: A Focus on Alumni Post-Turnover Recommendations*  
-Annual POMS-Conference, Orlando, FL  
+*Gender Moderating Effects in Registered Nurses' (RNs) Turnover: A Focus on Alumni Post-Turnover Recommendations*  
+Annual POMS Conference, Minneapolis, MN  
 April 2024
 
 ## 2023
 
 **Contributed Session**  
 *Personalized Inference for Social Mobility: Acknowledging Heteroscedasticity and Differentiating Subpopulations*  
-Joint Statistical Meeting (JSM), Toronto, CA  
+Joint Statistical Meeting (JSM), Toronto, Canada  
 August 2023
 
 **Refereed Paper with Award**  
@@ -45,9 +45,19 @@ August 2023
 Symposium on Data Science and Statistics (SDSS), St. Louis, MO  
 May 2023
 
+**Contributed Session**  
+*An "i-Mobility" Framework for Studying Social Mobility*  
+Annual POMS Conference, Orlando, FL  
+April 2023
+
+**Contributed Poster**  
+*An "i-Mobility" Framework for Studying Social Mobility*  
+ISCA Applied Statistics Symposium, Ann Arbor, MI  
+June 2023
+
 ## 2022
 
 **Contributed Poster and Lightning Talk**  
-*Manifold learning applications in single-cell multi-modal data*  
+*Manifold Learning Applications in Single-Cell Multi-Modal Data*  
 Symposium on Data Science and Statistics (SDSS), Pittsburgh, PA  
 June 2022
