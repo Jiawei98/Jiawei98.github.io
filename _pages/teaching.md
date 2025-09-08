@@ -9,12 +9,12 @@ I am passionate about integrating statistical methods, programming, and machine 
 ## Independent Instructor (In-person and Online)
 
 ### Graduate Courses
-- **Probability Models** - Fall 2025
-- **Statistical Computing** (Eval: 7.3/8.0) — Summer 2025
+- **BANA 7031 Probability Models** - Fall 2025
+- **BANA 6043 Statistical Computing** (Eval: 7.3/8.0) — Summer 2025
 
 ### Undergraduate Courses
-- **Descriptive Analytics and Data Visualization** (Eval: 7.5/8.0) — Spring 2024
-- **Descriptive Analytics and Data Visualization** (Eval: 7.0/8.0) — Summer 2022
+- **BANA 4137 Descriptive Analytics and Data Visualization** (Eval: 7.5/8.0) — Spring 2024
+- **BANA 4137 Descriptive Analytics and Data Visualization** (Eval: 7.0/8.0) — Summer 2022
 
 ### Selected Student Evaluations
 
@@ -22,10 +22,10 @@ I am passionate about integrating statistical methods, programming, and machine 
 > — *RateMyProfessor.com*
 
 > "Instructor communicated in the most timely manner and was very respectful. Highly recommend."  
-> — *BANA 4137*
+> — *BANA 4137 Descriptive Analytics and Data Visualization*
 
 > "I quite enjoyed the course. Not having a background in Python and still the way course was designed, I enjoyed my learning. Thank you for an amazing course!"  
-> — *BANA 6043*
+> — *BANA 6043 Statistical Computing*
 
 ## Teaching Assistant
 
