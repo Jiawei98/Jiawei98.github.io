@@ -24,6 +24,6 @@ My research centers on the development and application of statistical methodolog
 
 6. **Huang, J.**, Zheng, H., Dust, S., & Fry, M. J., I Will Pay You Back in The Future: Examining Employees' On-Job Perceptions of Organizations and Their Intention of Making Post-Turnover Employment Referrals. Preprint for submission to *International Journal of Human Resource Management*.
 
-7. Leveraging LLMs and Generative AI for Supervised Survey Text Extraction: Evidence from Engagement Surveys and Exit Interviews (With Michael J. Fry and Kanix Wang). Finalizing statistical analysis results, targeting *INFORMS Journal on Applied Analytics*.
+7. Leveraging LLMs and Generative AI for Supervised Survey Text Extraction: Evidence from Engagement Surveys and Exit Interviews (With Michael J. Fry and Kanix Wang). Writing results. Targeting *INFORMS Journal on Applied Analytics*.
 
-8. Statistical Improvements in Counterfactual Analysis for fsQCA (With Yanran Liu, Peng Wang, and Zewei Lin). Finished theory formalization and data collection, running statistical analysis. Targeting *Information System Research*.
+8. Statistical Improvements in Counterfactual Analysis for fsQCA (With Yanran Liu, Peng Wang, and Zewei Lin). Weiting Results. Targeting *Information System Research*.
