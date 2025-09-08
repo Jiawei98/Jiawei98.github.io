@@ -8,9 +8,9 @@ My research centers on the development and application of statistical methodolog
 
 ## Dissertation Papers
 
-1. An "*i*-mobility" Framework for Studying Social Mobility: Individualized Inference via Generative Analysis of Discrete Data (With Dungang Liu, Yuan Jiang, and Yu Xie). Preparing for submission to *Journal of the American Statistical Association*.
+1. An "*i*-mobility" Framework for Studying Social Mobility: Individualized Inference via Generative Analysis of Discrete Data (With Dungang Liu, Yuan Jiang, and Yu Xie). Preprint for submission to *Journal of the American Statistical Association*.
 
-2. Simplicity versus Complexity: The Role of Historical Average in Kelly, Malamud, and Zhou's (2024) RFF Model. (with Hui Guo and Yan Yu). Under review at *Journal of Finance*.
+2. Simplicity versus Complexity: The Role of Historical Average in Kelly, Malamud, and Zhou's (2024) RFF Model. (with Hui Guo and Yan Yu). Submitted to *Journal of Finance*.
 
 ## Peer-Reviewed Publications
 
@@ -22,7 +22,7 @@ My research centers on the development and application of statistical methodolog
 
 ## Other Working Papers
 
-6. **Huang, J.**, Zheng, H., Dust, S., & Fry, M. J., I Will Pay You Back in The Future: Examining Employees' On-Job Perceptions of Organizations and Their Intention of Making Post-Turnover Employment Referrals. Preprint for *International Journal of Human Resource Management*.
+6. **Huang, J.**, Zheng, H., Dust, S., & Fry, M. J., I Will Pay You Back in The Future: Examining Employees' On-Job Perceptions of Organizations and Their Intention of Making Post-Turnover Employment Referrals. Preprint for submission to *International Journal of Human Resource Management*.
 
 7. Leveraging LLMs and Generative AI for Supervised Survey Text Extraction: Evidence from Engagement Surveys and Exit Interviews (With Michael J. Fry and Kanix Wang). Finalizing statistical analysis results, targeting *INFORMS Journal on Applied Analytics*.
 
