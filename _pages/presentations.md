@@ -53,7 +53,7 @@ April 2023
 **Contributed Poster**  
 *An "i-Mobility" Framework for Studying Social Mobility*  
 ISCA Applied Statistics Symposium, Ann Arbor, MI  
-June 2023
+June 2023 
 
 ## 2022
 
