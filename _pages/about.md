@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,8 @@ redirect_from:
 keywords: "Jiawei Huang, Business Analytics, Data Science, Statistics, Machine Learning, University of Cincinnati, PhD Candidate, Research, Publications, Statistical Methods, Academic Research, Carl H. Lindner College of Business, OBAIS Department, Department of Operations, Business Analytics, and Information Systems"
 description: "Jiawei Huang - PhD Candidate in Business Analytics at University of Cincinnati. Researcher in statistical methods and machine learning on Business Applications."
 ---
+
+# About Me
 
 My name is Jiawei Huang, and I am a fifth-year Ph.D. candidate in Business Analytics in the Department of Operations, Business Analytics, and Information Systems at the Carl H. Lindner College of Business, University of Cincinnati. Prior to UC, I earned an M.S. in Data Science and Statistics from the University of Wisconsin–Madison (2020) and a B.S. in Statistics from Renmin University of China (2019).
 
