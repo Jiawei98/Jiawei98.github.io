@@ -28,12 +28,12 @@ I am passionate about integrating statistical methods, programming, and machine 
 > — *BANA 6043 Statistical Computing*
 
 ## Teaching Assistant
-- **BANA 7047** Data Mining (Sections 001, 002, 003) — Spring 2023
-- **BANA 7051** Applied Statistical Methods (Sections 001, 002) — Fall 2022
-- **BANA 7052** Applied Linear Regression (Sections 001, 002) — Fall 2022
-- **BANA 7050** Forecasting Methods (Section 002) — Spring 2022
-- **BANA 4137** Descriptive Analytics and Data Visualization (Section 001) — Spring 2022
-- **BANA 7038** Probability Models (Section 001) — Fall 2021
+- **BANA 7047 Data Mining** (Sections 001, 002, 003) — Spring 2023
+- **BANA 7051 Applied Statistical Methods** (Sections 001, 002) — Fall 2022
+- **BANA 7052 Applied Linear Regression** (Sections 001, 002) — Fall 2022
+- **BANA 7050 Forecasting Methods** (Section 002) — Spring 2022
+- **BANA 4137 Descriptive Analytics and Data Visualization** (Section 001) — Spring 2022
+- **BANA 7038 Probability Models** (Section 001) — Fall 2021
 
 ## Student Mentoring
 
