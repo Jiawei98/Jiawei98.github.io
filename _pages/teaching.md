@@ -16,6 +16,17 @@ I am passionate about integrating statistical methods, programming, and machine 
 - **Descriptive Analytics and Data Visualization** (Eval: 7.5/8.0) — Spring 2024
 - **Descriptive Analytics and Data Visualization** (Eval: 7.0/8.0) — Summer 2022
 
+### Selected Student Evaluations
+
+> "Absolute perfect guy. Take the class. Trust me."  
+> — *RateMyProfessor.com*
+
+> "Instructor communicated in the most timely manner and was very respectful. Highly recommend."  
+> — *BANA 4137*
+
+> "I quite enjoyed the course. Not having a background in Python and still the way course was designed, I enjoyed my learning. Thank you for an amazing course!"  
+> — *BANA 6043*
+
 ## Teaching Assistant
 
 Data Mining (Spring 2023), Descriptive Analytics and Data Visualization (Spring 2022), Forecasting Methods (Spring 2022), Applied Linear Regression (Fall 2022), Applied Statistical Methods (Fall 2022), and Probability Models (Fall 2021)
