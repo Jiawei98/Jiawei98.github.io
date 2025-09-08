@@ -33,7 +33,7 @@ My research centers on the application of statistical methods, machine learning,
 
 5. Jin, T., Rehani, P., Ying, M., **Huang, J.**, Liu, S., Roussos, P., & Wang, D. (2021). [scGRNom: A Computational Pipeline for Integrative Multi-Omics Analysis to Predict Cell-Type-Specific Disease Genes and Regulatory Networks](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00912-z). *Genome Medicine*, 13(1), 95.
 
-## Teaching (In-person and Online)
+## Selected Teaching
 
 ### Graduate Courses
 - **BANA 7031 Probability Models** - Fall 2025
