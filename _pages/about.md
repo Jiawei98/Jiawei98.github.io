@@ -31,11 +31,11 @@ My research centers on the application of statistical methods, machine learning,
 
 ### Peer-Reviewed Publications
 
-4. **Jiawei Huang**, Jie Sheng, & Daifeng Wang. Manifold Learning Analysis Suggests Strategies to Align Single-Cell Multimodal Data of Neuronal Electrophysiology and Transcriptomics. *Communications Biology* 4.1 (2021): 1308. [link](https://www.nature.com/articles/s42003-021-02820-9)
+4. **Jiawei Huang**, Jie Sheng, & Daifeng Wang. Manifold Learning Analysis Suggests Strategies to Align Single-Cell Multimodal Data of Neuronal Electrophysiology and Transcriptomics. *Communications Biology* 4.1 (2021): 1308. [link](https://www.nature.com/articles/s42003-021-02807-6)
 
 5. Nam D. Nguyen, **Jiawei Huang**, & Daifeng Wang. A Deep Manifold-Regularized Learning Model for Improving Phenotype Prediction from Multimodal Data. *Nature Computational Science* 2.1 (2022): 38-46. [link](https://www.nature.com/articles/s43588-021-00185-x)
 
-6. Ting Jin, Peter Rehani, Mufang Ying, **Jiawei Huang**, Shuang Liu, Panagiotis Roussos, & Daifeng Wang. scGRNom: A Computational Pipeline for Integrative Multi-Omics Analysis to Predict Cell-Type-Specific Disease Genes and Regulatory Networks. *Genome Medicine* 13.1 (2021): 95. [link](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00912-z)
+6. Ting Jin, Peter Rehani, Mufang Ying, **Jiawei Huang**, Shuang Liu, Panagiotis Roussos, & Daifeng Wang. scGRNom: A Computational Pipeline for Integrative Multi-Omics Analysis to Predict Cell-Type-Specific Disease Genes and Regulatory Networks. *Genome Medicine* 13.1 (2021): 95. [link](https://link.springer.com/article/10.1186/s13073-021-00908-9)
 
 ## Selected Teaching
 
