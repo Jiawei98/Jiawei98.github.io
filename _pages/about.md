@@ -11,7 +11,7 @@ description: "Jiawei Huang - PhD Candidate in Business Analytics at University o
 
 # Hi! I'm Jiawei,
 
-My name is Jiawei Huang (黄嘉炜), and I am a fifth-year Ph.D. candidate in Business Analytics in the Department of Operations, Business Analytics, and Information Systems at the Carl H. Lindner College of Business, University of Cincinnati. Prior to UC, I earned a M.S. in Data Science and Statistics from the University of Wisconsin–Madison (2020) and a B.S. in Statistics from Renmin University of China (2019).
+My name is Jiawei Huang, and I am a fifth-year Ph.D. candidate in Business Analytics in the Department of Operations, Business Analytics, and Information Systems at the Carl H. Lindner College of Business, University of Cincinnati. Prior to UC, I earned a M.S. in Data Science and Statistics from the University of Wisconsin–Madison (2020) and a B.S. in Statistics from Renmin University of China (2019).
 
 My research centers on the development and application of statistical methodology for complex business data. I creates tools for **discrete data analysis** and the integration of **large language models** to analyze mixed-type and unstructured survey data. In parallel, I advance **machine learning and deep learning** methods (penalized regression, neural networks, etc.) for high-dimensional, multimodal data, with applications in Asset Pricing, Organizational Behavior, and Gene–Environment Interaction. 
 
