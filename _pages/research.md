@@ -10,7 +10,7 @@ My research centers on the development and application of statistical methodolog
 
 *Methodology*: Discrete Data Analysis, Nonparametric Statistics, Penalized Regression, Machine/Deep Learning, Large Language Models (LLMs), High-Dimensional and Multimodal Analysis, Qualitative Comparative Analysis
 
-*Applications*: Survey Analysis, Social Mobility, Financial Asset Pricing, Organizational Behavior, Information Systems, Gene–Environment Interaction
+*Application*: Survey Analysis, Social Mobility, Financial Asset Pricing, Organizational Behavior, Information Systems, Gene–Environment Interaction
 
 ## Research Projects
 
