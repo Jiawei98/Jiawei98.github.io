@@ -4,7 +4,15 @@ title: "Research"
 author_profile: true
 ---
 
-My research centers on the development and application of statistical methodology for complex business data. I create tools for **discrete data analysis** and the integration of **large language models** to analyze mixed-type and unstructured survey data. In parallel, I advance statistical learning methods—including **penalized regression**, **neural networks**, and **deep learning**—for high-dimensional, multi-modal data, with applications in asset pricing, genetics, and organizational research.
+My research centers on the development and application of statistical methodology for complex business data. I creates tools for **discrete data analysis** and the integration of **large language models** to analyze mixed-type and unstructured survey data. In parallel, I advance machine learning and deep learning methods (**penalized regression**, **neural networks**, etc.) for high-dimensional, multimodal data, with applications in asset pricing, Organizational Behavior, and Gene–Environment Interaction. 
+
+## Research Interest
+
+*Methodology*: Discrete Data Analysis, Nonparametric Statistics, Pernalized Regression, Machine/Deep Learning, Large Language Models (LLMs), High-Dimensional and Multimodal Analysis, Qualitative Comparative Analysis
+
+*Applications*: Survey Analysis, Social Mobility, Financial Asset Pricing, Organizational Behavior, Information Systems, Gene–Environment Interaction
+
+## Research Projects
 
 *denote equal contributions; authors are ordered alphabetically by family name.
 
