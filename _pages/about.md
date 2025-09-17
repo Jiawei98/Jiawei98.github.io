@@ -42,9 +42,9 @@ Currently in ABD status, I am actively seeking academic positions beginning in 2
 ## Selected Teaching
 
 ### Graduate Courses
-- **BANA 7031 Probability Models** - Fall 2025
-- **BANA 6043 Statistical Computing** (Eval: 7.3/8.0) — Summer 2025
+- BANA 7031 Probability Models - Fall 2025
+- BANA 6043 Statistical Computing (Eval: 7.3/8.0) — Summer 2025
 
 ### Undergraduate Courses
-- **BANA 4137 Descriptive Analytics and Data Visualization** (Eval: 7.5/8.0) — Spring 2024
-- **BANA 4137 Descriptive Analytics and Data Visualization** (Eval: 7.0/8.0) — Summer 2022
+- BANA 4137 Descriptive Analytics and Data Visualization (Eval: 7.5/8.0) — Spring 2024
+- BANA 4137 Descriptive Analytics and Data Visualization (Eval: 7.0/8.0) — Summer 2022
