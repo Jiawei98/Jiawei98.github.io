@@ -20,7 +20,7 @@ My research centers on the development and application of statistical methodolog
 
 1. **Jiawei Huang**, Dungang Liu, Yuan Jiang, & Yu Xie. An "*i*-mobility" Framework for Studying Social Mobility: Individualized Inference via Generative Analysis of Discrete Data. Preprint for submission to *Journal of the American Statistical Association*. **Job Market Paper**.
 
-2. Hui Guo\*, **Jiawei Huang**\*, & Yan Yu\*. Simplicity versus Complexity: The Role of Historical Average in Kelly, Malamud, and Zhou's (2024) RFF Model. Under review at *Journal of Finance*. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5489967)
+2. Hui Guo\*, **Jiawei Huang**\*, & Yan Yu\*. Simplicity versus Complexity: The Role of Historical Average in Kelly, Malamud, and Zhou's (2024) RFF Model. Under review at *Journal of Finance*. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5489967)
 
 3. **Jiawei Huang**\*, Huimiao Zheng\*, Scott Dust, & Michael J. Fry. I Will Pay You Back in The Future: Examining Employees' On-Job Perceptions of Organizations and Their Intention of Making Post-Turnover Employment Referrals. Preprint for submission to *International Journal of Human Resource Management*.
 
