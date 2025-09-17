@@ -4,7 +4,10 @@ title: "Teaching"
 author_profile: true
 ---
 
-I am passionate about integrating statistical methods, programming, and machine learning/AI tools into business education. I am well-prepared to teach courses like **Business Analytics, Data Wrangling, Applied Linear Regression, Probability Models, Optimization, Machine Learning and AI, Data Mining, Database Management**, while remaining enthusiastic about contributing to courses in other areas where my expertise can add value.
+I am passionate about integrating statistical methods, programming, and machine learning/AI tools into business education. I am well prepared to teach the following courses in business analytics, data science, and AI, and I am enthusiastic about contributing to other related areas.
+•	Introductory Courses: Business Analytics, Descriptive Statistics, Predictive Analytics, Business Intelligence, Data Wrangling, Statistical Computing, and Introduction to Programming with Python/R.
+•	Advanced Courses: Applied Linear Regression, Probability Models, Big Data Analytics, Machine Learning and AI Algorithms, Text Mining, Optimization, Advanced Statistical Computing, Data Manipulation and Visualization with Python/R, Econometrics, and Database Management.
+
 
 ## Independent Instructor (In-person and Online)
 
