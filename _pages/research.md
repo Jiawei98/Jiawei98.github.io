@@ -6,8 +6,6 @@ author_profile: true
 
 My research centers on the development and application of statistical methodology for complex business data. I creates tools for **discrete data analysis** and the integration of **large language models** to analyze mixed-type and unstructured survey data. In parallel, I advance **machine learning and deep learning** methods (penalized regression, neural networks, etc.) for high-dimensional, multimodal data, with applications in Asset Pricing, Organizational Behavior, and Gene–Environment Interaction. 
 
-## Research Interest
-
 - *Methodology*: Discrete Data Analysis, Nonparametric Statistics, Penalized Regression, Machine/Deep Learning, Large Language Models (LLMs), High-Dimensional and Multimodal Analysis, Qualitative Comparative Analysis
 
 - *Application*: Survey Analysis, Social Mobility, Financial Asset Pricing, Organizational Behavior, Information Systems, Gene–Environment Interaction
