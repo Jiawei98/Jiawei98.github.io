@@ -8,9 +8,9 @@ My research centers on the development and application of statistical methodolog
 
 ## Research Interest
 
-*Methodology*: Discrete Data Analysis, Nonparametric Statistics, Penalized Regression, Machine/Deep Learning, Large Language Models (LLMs), High-Dimensional and Multimodal Analysis, Qualitative Comparative Analysis
+- *Methodology*: Discrete Data Analysis, Nonparametric Statistics, Penalized Regression, Machine/Deep Learning, Large Language Models (LLMs), High-Dimensional and Multimodal Analysis, Qualitative Comparative Analysis
 
-*Application*: Survey Analysis, Social Mobility, Financial Asset Pricing, Organizational Behavior, Information Systems, Gene–Environment Interaction
+- *Application*: Survey Analysis, Social Mobility, Financial Asset Pricing, Organizational Behavior, Information Systems, Gene–Environment Interaction
 
 ## Research Projects
 
