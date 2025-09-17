@@ -17,7 +17,7 @@ My research centers on the development and application of statistical methodolog
 
 Currently in ABD status, I am actively seeking academic positions beginning in 2026. Please feel free to contact me if you have any questions!
 
-[CV Link](/files/CV_Jiawei_Huang_UC.pdf)
+[CV link](/files/CV_Jiawei_Huang_UC.pdf)
 
 ## Selected Research
 
