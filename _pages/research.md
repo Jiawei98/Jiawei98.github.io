@@ -32,6 +32,6 @@ My research centers on the development and application of statistical methodolog
 
 ### Other Working Papers
 
-7. Leveraging LLMs and Generative AI for Supervised Survey Text Extraction: Evidence from Engagement Surveys and Exit Interviews (With Michael J. Fry and Kanix Wang). Finalizing statistical analysis results, targeting *INFORMS Journal on Applied Analytics*.
+7. Leveraging LLMs and Generative AI for Supervised Survey Text Extraction: Evidence from Engagement Surveys and Exit Interviews (With Michael J. Fry and Kanix Wang). Finalizing statistical analysis results, targeting *INFORMS Journal on Data Science*.
 
 8. Statistical Improvements in Counterfactual Analysis for fsQCA (With Yanran Liu, Peng Wang, and Zewei Lin). Finished theory formalization and data collection, running statistical analysis. Targeting *MIS Quarterly*.
