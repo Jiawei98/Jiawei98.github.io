@@ -15,7 +15,9 @@ My name is Jiawei Huang, and I am a fifth-year Ph.D. candidate in Business Analy
 
 My research centers on the development and application of statistical methodology for complex business data. I creates tools for **discrete data analysis** and the integration of **large language models** to analyze mixed-type and unstructured survey data. In parallel, I advance **machine learning and deep learning** methods (penalized regression, neural networks, etc.) for high-dimensional, multimodal data, with applications in Asset Pricing, Organizational Behavior, and Gene–Environment Interaction. 
 
-Currently in ABD status, I am actively seeking academic positions beginning in 2026. Please feel free to contact me if you have any questions!
+Currently in ABD status, I am actively seeking academic positions beginning in 2026. **I will present my paper at Data Mining and Decision Analytics (DMDA) Workshop (Refereed Full Paper) and Job Market Showcase Session at 2025 INFORMS Annual Meeting in Atlanta.**
+
+Please feel free to contact me if you have any questions!
 
 [CV Link](/files/CV_Jiawei_Huang_UC.pdf)
 
