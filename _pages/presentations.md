@@ -8,7 +8,7 @@ author_profile: true
 
 - Data Mining and Decision Analytics (DMDA) Workshop and Job Market Showcase  
 *An "i-Mobility" Framework for Studying Social Mobility: Profile-Based Generative Conditional Inference*  
-Joint Statistical Meeting (JSM), Nashville, TN  
+2025 INFORMS Annual Meeting, Atlanta, GA  
 October 2025 
 
 - Invited Session  
