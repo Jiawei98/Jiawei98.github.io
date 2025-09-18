@@ -6,12 +6,12 @@ author_profile: true
 
 ## 2025
 
-Invited Session
+Invited Session  
 *An "i-Mobility" Framework for Studying Social Mobility: Profile-Based Generative Conditional Inference*  
 Joint Statistical Meeting (JSM), Nashville, TN  
 August 2025 
 
-Invited Discussant 
+Invited Discussant  
 *Discussion: Predicting Power Grid Failures using Self-Organized Criticality: A Case Study of the Texas Grid 2014-2022*  
 International Risk Conference (MRS), Boston, MA  
 July 2025
