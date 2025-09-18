@@ -13,7 +13,7 @@ description: "Jiawei Huang - PhD Candidate in Business Analytics at University o
 
 My name is Jiawei Huang, and I am a fifth-year Ph.D. candidate in Business Analytics in the Department of Operations, Business Analytics, and Information Systems at the Carl H. Lindner College of Business, University of Cincinnati. Prior to UC, I earned a M.S. in Data Science and Statistics from the University of Wisconsin–Madison (2020) and a B.S. in Statistics from Renmin University of China (2019).
 
-My research centers on the development and application of statistical methodology for complex business data. I creates tools for **discrete data analysis** and the integration of **large language models** to analyze mixed-type and unstructured survey data. In parallel, I advance **machine learning and deep learning** methods (penalized regression, neural networks, etc.) for high-dimensional, multimodal data, with applications in Asset Pricing, Organizational Behavior, and Gene–Environment Interaction. 
+My research centers on the development and application of statistical methodology for complex business data. I creates tools for <u>discrete data analysis</u> and the integration of <u>large language models</u> to analyze mixed-type and unstructured survey data. In parallel, I advance <u>machine learning and deep learning</u> methods (penalized regression, neural networks, etc.) for high-dimensional, multimodal data, with applications in Asset Pricing, Organizational Behavior, and Gene–Environment Interaction. 
 
 Currently in ABD status, I am actively seeking academic positions beginning in 2026. <u>I will present my paper at Data Mining and Decision Analytics (DMDA) Workshop (Refereed Full Paper) and Job Market Showcase Session at the 2025 INFORMS Annual Meeting in Atlanta.</u>
 
@@ -27,11 +27,11 @@ Please feel free to contact me if you have any questions!
 
 ### Preprint or Submitted Papers
 
-1. **Jiawei Huang**, Dungang Liu, Yuan Jiang, & Yu Xie. An "*i*-mobility" Framework for Studying Social Mobility: Individualized Inference via Generative Analysis of Discrete Data. Preprint for submission to *Journal of the American Statistical Association*. **Job Market Paper**.
+1. <u>Jiawei Huang</u>, Dungang Liu, Yuan Jiang, & Yu Xie. An "*i*-mobility" Framework for Studying Social Mobility: Individualized Inference via Generative Analysis of Discrete Data. Preprint for submission to *Journal of the American Statistical Association*. **Job Market Paper**.
 
-2. Hui Guo\*, **Jiawei Huang**\*, & Yan Yu\*. Simplicity versus Complexity: The Role of Historical Average in Kelly, Malamud, and Zhou's (2024) RFF Model. Under review at *Journal of Finance*. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5489967)
+2. Hui Guo\*, </u>Jiawei Huang</u>\*, & Yan Yu\*. Simplicity versus Complexity: The Role of Historical Average in Kelly, Malamud, and Zhou's (2024) RFF Model. Under review at *Journal of Finance*. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5489967)
 
-3. **Jiawei Huang**\*, Huimiao Zheng\*, Scott Dust, & Michael J. Fry. I Will Pay You Back in The Future: Examining Employees' On-Job Perceptions of Organizations and Their Intention of Making Post-Turnover Employment Referrals. Preprint for submission to *International Journal of Human Resource Management*.
+3. <u>Jiawei Huang</u>\*, Huimiao Zheng\*, Scott Dust, & Michael J. Fry. I Will Pay You Back in The Future: Examining Employees' On-Job Perceptions of Organizations and Their Intention of Making Post-Turnover Employment Referrals. Preprint for submission to *International Journal of Human Resource Management*.
 
 ### Peer-Reviewed Publications
 
