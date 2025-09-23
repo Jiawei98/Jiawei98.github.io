@@ -25,7 +25,7 @@ I am passionate about integrating statistical methods, programming, and machine 
 > "Instructor communicated in the most timely manner and was very respectful. Highly recommend."  
 > — *Class evaluation from BANA 4137*
 
-> "I quite enjoyed the course. Not having a background in Python and still the way course was designed, I enjoyed my learning. Thank you for an amazing course!"  
+> "I enjoyed my learning. Thank you for an amazing course!"  
 > — *Class evaluation from BANA 6043*
 
 > "Absolute perfect guy. Take the class. Trust me."  
