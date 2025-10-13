@@ -17,8 +17,8 @@ My research centers on the development and application of statistical methodolog
 
 I will present my paper in the following sessions at the 2025 INFORMS Annual Meeting in Atlanta. Feel free to attend and connect with me!
 
-- Data Mining and Decision Analytics (DMDA) Workshop, Oct 25th
+- Data Mining and Decision Analytics (DMDA) Workshop, Oct 25th, Georgia World Congress Center, Building B Level 3 Room TBD
 
-- Job Market Showcase Session, Oct 28th
+- Job Market Showcase Session, Oct 28th 11:36-11:54 am, Georgia World Congress Center, Building A Level 3 Room A312
 
 
