@@ -14,9 +14,9 @@ My research centers on the development and application of statistical methodolog
 
 *denote equal contributions; authors are ordered alphabetically by family name.
 
-### Preprint or Submitted Papers
+### Dissertation Papers
 
-1. <u>Jiawei Huang</u>, Dungang Liu, Yuan Jiang, & Yu Xie. An "*i*-mobility" Framework for Studying Social Mobility: Individualized Inference via Generative Analysis of Discrete Data. Preprint for submission to *Journal of the American Statistical Association*. <u>Job Market Paper</u>.
+1. <u>Jiawei Huang</u>, Dungang Liu, Yuan Jiang, & Yu Xie. An "*i*-mobility" Framework for Studying Social Mobility: Individualized Inference via Generative Analysis of Discrete Data. Prepare for submission to *Journal of the American Statistical Association*. <u>Job Market Paper</u>.
 
 2. Hui Guo\*, <u>Jiawei Huang</u>\*, & Yan Yu\*. Simplicity versus Complexity: The Role of Historical Average in Kelly, Malamud, and Zhou's (2024) RFF Model. Under review at *Journal of Finance*. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5489967)
 
