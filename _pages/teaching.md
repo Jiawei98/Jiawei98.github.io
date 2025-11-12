@@ -10,6 +10,8 @@ author_profile: true
 
 [Processed data](/files/scores_analysis.xlsx)
 
+# Summary
+
 I am passionate about integrating statistical methods, programming, and machine learning/AI tools into business education. I am well prepared to teach the following courses in business analytics, data science, and AI, and I am enthusiastic about contributing to other related areas.
 
 -	*Introductory Courses*: Business Analytics, Descriptive Statistics, Predictive Analytics, Business Intelligence, Data Wrangling, Statistical Computing, and Introduction to Programming with Python/R.
