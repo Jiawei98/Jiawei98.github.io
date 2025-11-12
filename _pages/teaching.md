@@ -6,9 +6,9 @@ author_profile: true
 
 ## Data for teaching demo in two-sample hypothesis testing
 
+[Raw data](/files/scores.xlsx)
 
-
-
+[Processed data](/files/scores_analysis.xlsx)
 
 I am passionate about integrating statistical methods, programming, and machine learning/AI tools into business education. I am well prepared to teach the following courses in business analytics, data science, and AI, and I am enthusiastic about contributing to other related areas.
 
