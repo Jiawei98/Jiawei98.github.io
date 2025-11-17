@@ -4,8 +4,9 @@ title: "Teaching"
 author_profile: true
 ---
 
-## Linear Regression Lab Note
+# Linear Regression Lab Note
 
+[Linear regression lab note](/files/lab_regression.html)
 
 # Summary
 
