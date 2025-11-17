@@ -4,11 +4,8 @@ title: "Teaching"
 author_profile: true
 ---
 
-## Data for teaching demo in two-sample hypothesis testing
+## Linear Regression Lab Note
 
-[Raw data](/files/scores.xlsx)
-
-[Processed data](/files/scores_analysis.xlsx)
 
 # Summary
 
