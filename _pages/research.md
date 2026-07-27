@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ### Peer-Reviewed Publications
-1. Nam D. Nguyen, <u>Jiawei Huang</u>, & Daifeng Wang. A Deep Manifold-Regularized Learning Model for Improving Phenotype Prediction from Multimodal Data. *Nature Computational Science*. [Link]
-2. <u>Jiawei Huang</u>, Jie Sheng, & Daifeng Wang. Manifold Learning Analysis Suggests Strategies to Align Single-Cell Multimodal Data of Neuronal Electrophysiology and Transcriptomics. *Communications Biology*. [Link]
-3. Ting Jin, Peter Rehani, Mufang Ying, <u>Jiawei Huang</u>, Shuang Liu, Panagiotis Roussos, & Daifeng Wang. scGRNom: A Computational Pipeline for Integrative Multi-Omics Analysis to Predict Cell-Type-Specific Disease Genes and Regulatory Networks. *Genome Medicine*. [Link]
+1. Nam D. Nguyen, <u>Jiawei Huang</u>, & Daifeng Wang. A Deep Manifold-Regularized Learning Model for Improving Phenotype Prediction from Multimodal Data. *Nature Computational Science*. 
+2. <u>Jiawei Huang</u>, Jie Sheng, & Daifeng Wang. Manifold Learning Analysis Suggests Strategies to Align Single-Cell Multimodal Data of Neuronal Electrophysiology and Transcriptomics. *Communications Biology*.
+3. Ting Jin, Peter Rehani, Mufang Ying, <u>Jiawei Huang</u>, Shuang Liu, Panagiotis Roussos, & Daifeng Wang. scGRNom: A Computational Pipeline for Integrative Multi-Omics Analysis to Predict Cell-Type-Specific Disease Genes and Regulatory Networks. *Genome Medicine*.
 
 ### Working Papers
 4. <u>Jiawei Huang</u>, Dungang Liu, Yuan Jiang, & Yu Xie. An "*i*-mobility" Framework for Studying Social Mobility: Individualized Inference via Generative Analysis of Discrete Data. Under review.
