@@ -15,4 +15,4 @@ I am a ternue-track assistant professor in Data Science at [Católica Lisbon Sch
 
 My research centers on the development and application of statistical methodology for complex business data. I creates tools for <discrete data analysis and the integration of large language models to analyze mixed-type and unstructured survey data. In parallel, I advance machine learning and deep learning methods (penalized regression, neural networks, etc.) for high-dimensional, multimodal data, with applications in Finance and Organizational Behavior.
 
-[Download my CV](../files/CV_Jiawei_Huang_UC.pdf)
+[Download my CV](../files/CV_Jiawei_Huang.pdf)
